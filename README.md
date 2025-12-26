@@ -6,11 +6,11 @@ To add your LeetCode profile into the blockchain, all you will need is a LeetCod
 
 ## Why it was made:
 
-The idea came when I was exploring blockchain projects particularly Solana ones and I found solana blockchain pretty interesting. I started learning about Solana (you can find the resources I used to create this dApp from [here](https://github.com/cdhiraj40/SolanaxLeetDroid/blob/master/RESOURCES.md)) and I became fond of it. Thats when I thought I want to make something on Solana blockchain and let a user add their profile to the blockchain. I already had an app based on LeetCode and it gave me an idea of getting started with this. Its pretty funny that my app gives your whole LeetCode profile in your pockets and this dApp made it possible for that profile to stay forever*
+The idea came when I was exploring blockchain projects particularly Solana ones and I found solana blockchain pretty interesting. I started learning about Solana (you can find the resources I used to create this dApp and I became fond of it. Thats when I thought I want to make something on Solana blockchain and let a user add their profile to the blockchain. I already had an app based on LeetCode and it gave me an idea of getting started with this. Its pretty funny that my app gives your whole LeetCode profile in your pockets and this dApp made it possible for that profile to stay forever*
 
 ## What it does :
 
-This project "<b>Solana x LeetDroid</b>" provides user to upload their profile into Solana Blockchain (Devnet). It lets user fetch their LeetCode profile via a simple UI. Once you have fetched your profile, you can connect to your wallet. The dApp provides more than 5 wallets and once you are connected you can send your profile into blockchain under 10 seconds. Yes its that fast!(Read more about Solana from [here](https://solana.com/news/getting-started-with-solana-development). It shows user the transaction ID which one can use it on home page to generate their custom profile card with a QR code embedded in it which gives you the transaction ID of the transaction after scanning it. So no need at all to remember your transaction ID. One can always regenerate their profile card after inputting their transaction ID. If you are new to dApps and dont know how to get started with this one? Dont worry at all! There is also a [how to use section](https://solanaxleetdroid-cdhiraj40.vercel.app/how-to-use)(or if you are fan of github readmes then same is [here](https://github.com/cdhiraj40/SolanaxLeetDroid/blob/master/GET_STARTED.md) too.) so any beginner can add their LeetCode profile to blockchain just like that. if you still face any issues feel free to create an issue, I would love to help. 
+This project "<b>Solana x LeetDroid</b>" provides user to upload their profile into Solana Blockchain (Devnet). It lets user fetch their LeetCode profile via a simple UI. Once you have fetched your profile, you can connect to your wallet. The dApp provides more than 5 wallets and once you are connected you can send your profile into blockchain under 10 seconds. Yes its that fast!(Read more about Solana. It shows user the transaction ID which one can use it on home page to generate their custom profile card with a QR code embedded in it which gives you the transaction ID of the transaction after scanning it. So no need at all to remember your transaction ID. One can always regenerate their profile card after inputting their transaction ID. If you are new to dApps and dont know how to get started with this one? Dont worry at all! 
 
 ### Collage/Screenshots
 
@@ -30,10 +30,10 @@ If you don't have a leetcode account you can create one from [here](https://leet
 ## 🛠️ Installation Steps
 
 <br/>1. Fork the project
-<br/>Go to this page ``https://github.com/cdhiraj40/SolanaxLeetDroid`` and click Fork button.
+<br/>Go to this page ``https://github.com/hydrogen7797/SolanaxLeetDroid`` and click Fork button.
 <img src ="src/assets/images/fork.png" align="center" hspace="10" vspace="10"><br/>
 <br/>2. Clone the project
-<br/>Copy the https link and clone the project to you local repository (`git clone *https link that you copied*`) Ex.(git clone https://github.com/cdhiraj40/SolanaxLeetDroid)
+<br/>Copy the https link and clone the project to you local repository (`git clone *https link that you copied*`) Ex.(git clone https://github.com/hydrogen7797/SolanaxLeetDroid)
 <img src ="src/assets/images/clone.png" align="center" hspace="10" vspace="10">
 <br/>3. Create a new branch (`git checkout -b new-feature`)
 <br/>4. One can find smart contract in the ``program-rust/programs/solana-leetdroid/src/`` directory.
@@ -49,7 +49,7 @@ If you don't have a leetcode account you can create one from [here](https://leet
 
 ### Bug / Feature Request
 
-If you find a bug in the dApp/website, kindly open an issue [here](https://github.com/cdhiraj40/SolanaxLeetDroid/issues/new) by
+If you find a bug in the dApp/website, kindly open an issue [here](https://github.com/hydrogen7797/SolanaxLeetDroid/issues/new) by
 including a proper description about the bug and the expected result. Similarly, I would be glad to hear about new
 features to add in the project, kindly follow same procedure for it too.
 
